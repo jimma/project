@@ -130,6 +130,7 @@ header .intro-text .skills {
   border: 1px solid green;
   box-shadow: 0 0 3px rgba(51, 51, 51, 0.2);
 }
+
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
