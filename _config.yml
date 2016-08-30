@@ -1,10 +1,11 @@
 # Site settings
-title: Freelancer
+title: Resteasy
 email: your-email@domain.com
-url: https://example.github.io
+url: https://jimma.github.io/project
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "RESTEasy is a fully certified and portable implementation of the JAX-RS 2.0 specification, a JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol. It is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications.It can run in any Servlet container, but tighter integration with the JBoss Application Server is also available to make the user experience nicer in that environment"
+news: "Resteasy 3.0.19.Final is available." 
+meta_author: Resteasy
 
 # Google webmaster tools
 google_verify:
@@ -20,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
