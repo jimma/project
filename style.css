@@ -87,7 +87,6 @@ hr.star-primary:after {
 }
 
 header {
-    text-align: center;
     color: #fff;
     background: #18bc9c;
 }
@@ -114,7 +113,23 @@ header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
 }
+.skills {
+    padding-left: 15px;
+    font-size: 1.25em;
+    font-weight: 200;
+}
+.news {
+    text-align: center;
+    font-size: 2em;
+    font-weight: 800;
+    color: #ffffc2;  
+}
 
+.well {
+  background: #c9ecdf none repeat scroll 0 0;
+  border: 1px solid green;
+  box-shadow: 0 0 3px rgba(51, 51, 51, 0.2);
+}
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -204,6 +219,10 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+}
+#portfolio .intro-text {
+    font-size: 2em;
+    font-weight: 300;
 }
 
 #portfolio .portfolio-item .portfolio-link {
