@@ -1,6 +1,22 @@
 ---
 layout: book
-title: My name is book
+title: Books
 ---
-![enter image description here](https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667)
-There is a [list](https://github.com/sindresorhus/awesome) in github to aggregate all the awesome project, lanague,platfom, books.  There is [awesome java](https://github.com/akullpp/awesome-java) to gather all the good things about java language. It deserves a look.
+
+![](/img/restful_java.gif) |||||||||||||| [RESTful Java with JAX-RS](http://oreilly.com/catalog/9780596158040/) by Bill Burke. RESTful Java with JAX-RS includes a technical guide that explains REST and JAX-RS, how they work, and when to use them. With the RESTEasy workbook that follows, you get step-by-step instructions for installing, configuring, and running several working JAX-RS examples, using the JBoss RESTEasy implementation of JAX-RS.
+
+***
+
+![](/img/rest.gif) |||||||||||||| [RESTful Web Services](http://oreilly.com/catalog/9780596529260/) by Leonard Richardson and Sam Ruby. A great introduction to REST, RESTful techniques, and designing  RESTful Web Services.  Its how learned about REST initially.
+
+
+---
+
+![](/img/cookbook.gif) |||||||||||||| [RESTful Web Services Cookbook](http://oreilly.com/catalog/9780596808679/) by Subbu Allamaraju and Mike Amundsen. Detailed cookbook on how to design RESTful services. Subbu has an [incredible blog](http://www.subbu.org) on REST and finally he's taken a lot of his ideas and experiences along with Mike Amundsen and incorporated them into a book.                         |
+
+
+         
+
+
+
+
