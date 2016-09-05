@@ -1,8 +1,7 @@
 ---
 layout: book
+title: Documentation
 ---
-
-### RESTEasy Documentation
 
 The documentation below is a combination of docbook and javadocs.  The
 docbook is a maven module in our source tree.  If you download or check

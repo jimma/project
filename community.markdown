@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Community -JBoss Community
+title: Community
 ---
 
 ### Mailing Lists
@@ -17,5 +17,14 @@ resteasy-commits
 :   [https://lists.jboss.org/mailman/listinfo/resteasy-commits](https://lists.jboss.org/mailman/listinfo/resteasy-commits)
 :   Get notifications of each commit to the sources repository
 
+### Issue Tracker
+[https://issues.jboss.org/projects/RESTEASY](https://issues.jboss.org/projects/RESTEASY)
+
+### Twitter 
+[http://twitter.com/resteasy](http://twitter.com/resteasy)
+
+### Source Code
+[https://github.com/resteasy](https://github.com/resteasy)
+
 ### Wiki ###
-[Wiki site](https://developer.jboss.org/wiki/ResteasyWIKI)
+[https://developer.jboss.org/wiki/ResteasyWIKI](https://developer.jboss.org/wiki/ResteasyWIKI)

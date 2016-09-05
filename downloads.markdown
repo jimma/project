@@ -1,14 +1,10 @@
 ---
 layout: book
-title: Downloads -JBoss Community
+title: Download
 ---
-
-### Downloads Resteasy version 3
-
-
-  **Name**     |  **Description**    |  **Size**       |    **Release date**   |    **License**         |     **Release notes**  |   **Download**
-|:-------------- |:--------------------|:-------------------|:----------------------|:------------------------|:-----------------------|:----------------------------
-3.0.19.Final |  stable ([Source code](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.19.Final-src.zip)) |  48.1 MB |  2016-08-19  |   ASL v2   | [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12330962&styleName=Text&projectId=12310560&Create=Create) | [resteasy-jaxrs-3.0.19.Final-all.zip](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.19.Final-all.zip)
+  Name      |Description|Size|Release Date|License|Release Notes|Download
+|-----------|-----------------|---------|-----------------|-----------|---------------|---------------
+3.0.19.Final |  stable ([Source code](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.19.Final-src.zip)) |  48.1 MB |  2016-08-19  |   ASL v2   | [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12330962&styleName=Text&projectId=12310560&Create=Create)|[resteasy-jaxrs-3.0.19.Final-all.zip](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.19.Final-all.zip)
 3.0.18.Final  | stable ([Source code](%20http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.18.Final-src.zip)) |  48.1 MB  | 2016-07-13 |    ASL v2  |  [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12330860&styleName=Html&projectId=12310560)| [resteasy-jaxrs-3.0.18.Final-all.zip](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.18.Final-all.zip)
 3.0.17.Final |  stable ([Source code](%20http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.17.Final-src.zip)) | 52.0 MB |  2016-05-23   |  ASL v2  |  [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12329806&styleName=Html&projectId=12310560&Create=Create&atl_token=AQZJ-FV3A-N91S-UDEU/f2d6121a7b4df35afdef6f74291acbf50011667f/lin)  |  [resteasy-jaxrs-3.0.17.Final-all.zip](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.17.Final-all.zip)
 3.0.16.Final  | stable ([Source code](%20http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.16.Final-src.zip)) |  51.8 MB | 2016-02-19  |  ASL v2   | [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12329805&styleName=Html&projectId=12310560&Create=Create&atl_token=AQZJ-FV3A-N91S-UDEU/8454be90498bdb40d4838901c125a28d55dd5253/lin)  |  [resteasy-jaxrs-3.0.16.Final-all.zip](http://download.jboss.org/resteasy/resteasy-jaxrs-3.0.16.Final-all.zip)
@@ -30,7 +26,7 @@ title: Downloads -JBoss Community
 3.0.0.Final  |  stable ([Source code](http://sourceforge.net/projects/resteasy/files/Resteasy%20JAX-RS/3.0.0.Final/resteasy-jaxrs-3.0.0.Final-src.zip/download)) |  39.6 MB  | 2013-06-18 |    ASL v2  |  [Release Notes](https://issues.jboss.org/secure/ReleaseNote.jspa?version=12321733&styleName=Html&projectId=12310560&Create=Create&atl_token=AQZJ-FV3A-N91S-UDEU/805f3e71eb6f2d366c695fccf27b4fbf65feb7fe/lin)  |  [resteasy-jaxrs-3.0.0.Final-all.zip](http://sourceforge.net/projects/resteasy/files/Resteasy%20JAX-RS/3.0.0.Final/resteasy-jaxrs-3.0.0.Final-all.zip/download)
 
 
-**Note:** Downloads counter is updated once per day.
+```Note: Downloads counter is updated once per day.```
 
 ### Downloads Resteasy version 2
 
@@ -67,4 +63,4 @@ title: Downloads -JBoss Community
 2.0.0.GA   |   source   |   3.4 MB   | 2010-07-19  |   ASL v2    |[resteasy-jaxrs-2.0.0.GA-src.zip](http://sourceforge.net/projects/resteasy/files/Resteasy%20JAX-RS/2.0.0.GA/resteasy-jaxrs-2.0.0.GA-src.zip/download)
                                                                                  
 
-**Note:** Downloads counter is updated once per day.
+```Note:Downloads counter is updated once per day.```
