@@ -2,6 +2,7 @@
 layout: book
 title: Books
 ---
+### Books
 
 ![](/img/restful_java.gif) |||||||||||||| [RESTful Java with JAX-RS](http://oreilly.com/catalog/9780596158040/) by Bill Burke. RESTful Java with JAX-RS includes a technical guide that explains REST and JAX-RS, how they work, and when to use them. With the RESTEasy workbook that follows, you get step-by-step instructions for installing, configuring, and running several working JAX-RS examples, using the JBoss RESTEasy implementation of JAX-RS.
 
